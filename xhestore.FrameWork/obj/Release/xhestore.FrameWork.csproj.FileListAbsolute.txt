@@ -1,0 +1,7 @@
+D:\Documents\GitHub\MobileLibrary_bx\MobileLibrary_bx\xhestore.FrameWork\bin\Release\xhestore.FrameWork.dll
+D:\Documents\GitHub\MobileLibrary_bx\MobileLibrary_bx\xhestore.FrameWork\bin\Release\xhestore.FrameWork.pdb
+D:\Documents\GitHub\MobileLibrary_bx\MobileLibrary_bx\xhestore.FrameWork\obj\Release\xhestore.FrameWork.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\MobileLibrary_bx\MobileLibrary_bx\xhestore.FrameWork\obj\Release\xhestore.FrameWork.Properties.Resources.resources
+D:\Documents\GitHub\MobileLibrary_bx\MobileLibrary_bx\xhestore.FrameWork\obj\Release\xhestore.FrameWork.csproj.GenerateResource.Cache
+D:\Documents\GitHub\MobileLibrary_bx\MobileLibrary_bx\xhestore.FrameWork\obj\Release\xhestore.FrameWork.dll
+D:\Documents\GitHub\MobileLibrary_bx\MobileLibrary_bx\xhestore.FrameWork\obj\Release\xhestore.FrameWork.pdb

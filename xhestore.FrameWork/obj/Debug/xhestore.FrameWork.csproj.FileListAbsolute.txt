@@ -1,0 +1,14 @@
+D:\Documents\GitHub\MobileLibrary_bx\MobileLibrary_bx\xhestore.FrameWork\obj\Debug\xhestore.FrameWork.Properties.Resources.resources
+D:\Documents\GitHub\MobileLibrary_bx\MobileLibrary_bx\xhestore.FrameWork\obj\Debug\xhestore.FrameWork.csproj.GenerateResource.Cache
+D:\Documents\GitHub\MobileLibrary_bx\MobileLibrary_bx\xhestore.FrameWork\bin\Debug\xhestore.FrameWork.dll
+D:\Documents\GitHub\MobileLibrary_bx\MobileLibrary_bx\xhestore.FrameWork\bin\Debug\xhestore.FrameWork.pdb
+D:\Documents\GitHub\MobileLibrary_bx\MobileLibrary_bx\xhestore.FrameWork\obj\Debug\xhestore.FrameWork.dll
+D:\Documents\GitHub\MobileLibrary_bx\MobileLibrary_bx\xhestore.FrameWork\obj\Debug\xhestore.FrameWork.pdb
+D:\Documents\GitHub\MobileLibrary_bx\MobileLibrary_bx\xhestore.FrameWork\obj\Debug\xhestore.FrameWork.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\MobileLibrary_bx\xhestore.FrameWork\bin\Debug\xhestore.FrameWork.dll
+D:\Documents\GitHub\MobileLibrary_bx\xhestore.FrameWork\bin\Debug\xhestore.FrameWork.pdb
+D:\Documents\GitHub\MobileLibrary_bx\xhestore.FrameWork\obj\Debug\xhestore.FrameWork.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\MobileLibrary_bx\xhestore.FrameWork\obj\Debug\xhestore.FrameWork.Properties.Resources.resources
+D:\Documents\GitHub\MobileLibrary_bx\xhestore.FrameWork\obj\Debug\xhestore.FrameWork.csproj.GenerateResource.Cache
+D:\Documents\GitHub\MobileLibrary_bx\xhestore.FrameWork\obj\Debug\xhestore.FrameWork.dll
+D:\Documents\GitHub\MobileLibrary_bx\xhestore.FrameWork\obj\Debug\xhestore.FrameWork.pdb

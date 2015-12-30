@@ -1,0 +1,5 @@
+D:\Documents\GitHub\MobileLibrary_bx\MobileLibrary_bx\xhestore.Models\bin\Release\xhestore.Models.dll
+D:\Documents\GitHub\MobileLibrary_bx\MobileLibrary_bx\xhestore.Models\bin\Release\xhestore.Models.pdb
+D:\Documents\GitHub\MobileLibrary_bx\MobileLibrary_bx\xhestore.Models\obj\Release\xhestore.Models.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\MobileLibrary_bx\MobileLibrary_bx\xhestore.Models\obj\Release\xhestore.Models.dll
+D:\Documents\GitHub\MobileLibrary_bx\MobileLibrary_bx\xhestore.Models\obj\Release\xhestore.Models.pdb
