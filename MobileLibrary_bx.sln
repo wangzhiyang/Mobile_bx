@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xhestore.Dao", "xhestore.Da
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xhestore.Models", "xhestore.Models\xhestore.Models.csproj", "{9973E487-E4EF-4CB2-84B4-BC604E31F76F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileLibrary_bx", "MobileLibrary_bx\MobileLibrary_bx.csproj", "{D32F20F8-3445-4C80-B988-3915D8A60A41}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,6 +32,10 @@ Global
 		{9973E487-E4EF-4CB2-84B4-BC604E31F76F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9973E487-E4EF-4CB2-84B4-BC604E31F76F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9973E487-E4EF-4CB2-84B4-BC604E31F76F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D32F20F8-3445-4C80-B988-3915D8A60A41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D32F20F8-3445-4C80-B988-3915D8A60A41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D32F20F8-3445-4C80-B988-3915D8A60A41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D32F20F8-3445-4C80-B988-3915D8A60A41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
